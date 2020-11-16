@@ -292,8 +292,9 @@ nav .logo {
 
 @media(max-width: 800px){
 	body{
-		overflow-x: hidden;
+		margin-right: 0;
 	}
+
 	.g1{
 		display:block;
 
