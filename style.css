@@ -32,7 +32,6 @@ nav {
 
 nav .mainMenu {
     display: flex;
-    
     list-style: none;
     z-index: 10;
 }
@@ -292,6 +291,9 @@ nav .logo {
 }
 
 @media(max-width: 800px){
+	body{
+		overflow-x: hidden;
+	}
 	.g1{
 		display:block;
 
