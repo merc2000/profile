@@ -312,7 +312,6 @@ nav .logo {
 
 	nav .mainMenu {
 				height: 100vh;
-				max-width: 100vw;
         position: fixed;
         top: 0;
         right: 0;
